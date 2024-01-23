@@ -11,7 +11,7 @@ body{
 }
 /* color:dc2626 */
 :root{
-    --color-default: #dc2626;
+    --color-default: lime;
 }
 
 .width{
