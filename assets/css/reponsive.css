@@ -1,0 +1,56 @@
+
+/* PC */
+@media (min-width: 64em){
+    
+}
+
+/* Tablet and moblie */
+@media (max-width: 63.9375em){
+
+}
+
+@media (min-width: 46.25em) and ( max-width: 63.9375em){
+
+}
+
+/* Mobile */
+@media (max-width: 46.1875em){
+    .width{
+        width: 100%;
+    }
+
+    .nap-the, .nap-atm-momo, .tim-nick{
+        display: none;
+    }
+    .slider_content-img .sale-img{
+        width: 100%;
+        padding: 0.5rem;
+        border-radius: 2rem;
+    }
+    .slider_content .content_top-nap{
+        display: none;
+    }
+    #slider .marquee-container{
+        display: none;
+    }
+    .main-content{
+        /* flex-wrap: nowrap; */
+    }
+    .container-acc-items{
+        width: 46%;
+    }
+    .wrapper-footer-content{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .khung-chinh-chu, .footer-chinh-chu, .ve-chung-toi, .footer-chinh-chu p{
+        width: 96%;
+        margin: 0px 8px 10px;
+    }
+    .width-mobile{
+        /* width: 30%; */
+    }
+    .uy-tin-heading{
+        text-align: center;
+    }
+}

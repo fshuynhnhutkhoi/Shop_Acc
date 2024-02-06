@@ -41,8 +41,8 @@ body{
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
 }
 .header_content .img-logo{
-    width: 164px;
-    height: 48px;
+    width: 10rem;
+    height: 4rem;
 }
 #header .header_content a{
     text-decoration: none;
@@ -75,10 +75,10 @@ body{
     border-radius: 5px;
 }
 #header .dang-nhap{
-
+    
 }
 .dang-nhap .tim-nick{
-    margin-right: 16px;
+    margin-right: 1rem;
     padding: 10px;
 }
 #header .header_content .dang-nhap .dang-nhap-btn{
@@ -96,7 +96,7 @@ body{
 }
 .dang-nhap .user-icon{
     font-size: 1.2rem;
-    margin-right: 10px;
+    margin-right: 1rem;
 }
 
 #slider{
